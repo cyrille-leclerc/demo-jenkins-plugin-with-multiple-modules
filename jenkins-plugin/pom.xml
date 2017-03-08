@@ -33,7 +33,6 @@
     <connection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</connection>
     <developerConnection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</developerConnection>
     <url>https://github.com/cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules</url>
-    <tag>HEAD</tag>
   </scm>
   <repositories>
     <repository>

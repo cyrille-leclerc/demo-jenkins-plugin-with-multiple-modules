@@ -19,6 +19,20 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <licenses>
+    <license>
+      <name>The MIT license</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <scm>
+    <connection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</connection>
+    <developerConnection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</developerConnection>
+    <url>https://github.com/cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules</url>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
