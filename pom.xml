@@ -60,6 +60,15 @@
         <module>another-module</module>
         <module>jenkins-plugin</module>
     </modules>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.5.3</version>
+            </plugin>
+        </plugins>
+    </build>
     <distributionManagement>
         <snapshotRepository>
             <id>nexus.beescloud.com</id>
