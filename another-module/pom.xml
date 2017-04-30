@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>demo-jenkins-plugin-with-multiple-modules-parent</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
@@ -31,7 +31,7 @@
     <connection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</connection>
     <developerConnection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</developerConnection>
     <url>https://github.com/cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules</url>
-    <tag>HEAD</tag>
+    <tag>demo-jenkins-plugin-with-multiple-modules-parent-1.2</tag>
   </scm>
 
   <dependencies>
