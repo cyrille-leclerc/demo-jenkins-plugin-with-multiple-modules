@@ -27,7 +27,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>demo-jenkins-plugin-with-multiple-modules-parent</artifactId>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Demo Jenkins Plugin with Multiple Modules Parent</name>
@@ -55,7 +55,7 @@
         <connection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</connection>
         <developerConnection>scm:git:git@github.com:cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules.git</developerConnection>
         <url>https://github.com/cyrille-leclerc/demo-jenkins-plugin-with-multiple-modules</url>
-      <tag>demo-jenkins-plugin-with-multiple-modules-parent-1.2</tag>
+      <tag>HEAD</tag>
   </scm>
     <modules>
         <module>another-module</module>
